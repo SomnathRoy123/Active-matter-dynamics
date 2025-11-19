@@ -3,9 +3,9 @@
  * -----------------------
  *
  * Title: Mean angular velocity (CLI-ready, GitHub-friendly)
- * Author: <Your Name>  (add your name & contact before committing)
+ * Author: Somnath Roy
  * Created: 2025-11-19
- * License: MIT (add LICENSE file to repo)
+ 
  *
  * Purpose
  * -------
@@ -16,13 +16,7 @@
  * the minimal wrapped difference), and writes a tab-separated time series with
  * mean angular velocity, nondimensionalized mean, mean absolute value and RMS.
  *
- * Why this file header format?
- * ----------------------------
- * This header is intentionally verbose so it can be included in a GitHub
- * repository as the canonical top-of-file documentation. It contains
- * authorship, license, high-level description, usage examples and a short
- * changelog. When you prepare your repository, also include a README.md and
- * LICENSE file.
+
  *
  * Input file requirements
  * -----------------------
